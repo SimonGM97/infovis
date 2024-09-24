@@ -1,0 +1,7 @@
+Horizon graphs
+Stem-and-Leaf Plots
+Parallel Coordinates
+Flow Maps
+Node-Link Diagrams
+Adjacency Diagrams
+Arc Diagrams
