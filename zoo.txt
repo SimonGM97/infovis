@@ -1,7 +1,11 @@
 Horizon graphs
 Stem-and-Leaf Plots
-Parallel Coordinates
 Flow Maps
 Node-Link Diagrams
 Adjacency Diagrams
 Arc Diagrams
+Choropleth Map
+Parallel Coordinates
+Graduated Symbol Maps
+Cartograms
+Radial node-link diagram
