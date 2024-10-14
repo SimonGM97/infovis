@@ -16,7 +16,7 @@ git clone https://github.com/SimonGM97/infovis.git
 python3 -m venv .infovis_venv
 source .infovis_venv/bin/activate
 ```
-3. Install the ed_ml module in "editable" mode:
+3. Install the **requirements.txt** libraries:
 ```
 pip install -r "requirements.txt"
 ```
